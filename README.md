@@ -2,7 +2,7 @@
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=21ynxbuyhbybbr4kvufqlpxca&cover_image=true"
     alt="spotify" />
 </a>
 
@@ -16,6 +16,5 @@
 ## Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true)](https://pepo.dev)
-
 [![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=10&layout=compact&card_width=450)](https://pepo.dev)
 
