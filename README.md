@@ -13,7 +13,9 @@
 
 > I love to learn things new in technologies, And want to be a part in open source community.
 
-## Stats
+> I’m a DevOps Engineer at @opsta in Thailand. I also love to making game and tools. that’s all I’ve got to say! 😎
+
+## Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true&theme=dracula&hide_border=true)](https://pepo.dev)
 [![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=10&layout=compact&card_width=445&theme=dracula&hide_border=true)](https://pepo.dev)
