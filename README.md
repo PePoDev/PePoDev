@@ -27,7 +27,7 @@
   <td width="50%">
 
 <br><p align="center">
-  [![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=8&layout=compact")](https://pepo.dev)
+  [![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=8&layout=compact)](https://pepo.dev)
 </p>
   </td>
   </table>
