@@ -7,7 +7,7 @@
 
 [![Website](https://image.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg)](https://pepo.dev)
 
-I love to learn things new in technologies, And want to be a part in open source community.
+> I love to learn things new in technologies, And want to be a part in open source community.
 
 ## Stats
 
