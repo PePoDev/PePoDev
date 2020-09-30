@@ -15,6 +15,6 @@
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true&theme=dracula)](https://pepo.dev)
-[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=10&layout=compact&card_width=445&theme=dracula)](https://pepo.dev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true&theme=dracula&hide_border=true)](https://pepo.dev)
+[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=10&layout=compact&card_width=445&theme=dracula&hide_border=true)](https://pepo.dev)
 
