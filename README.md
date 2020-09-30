@@ -19,8 +19,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true)](https://pepo.dev)
 
-<a href="https://pepo.dev" target="blank">
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=8"
-    alt="top-langs" />
-</a>
+[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=10&layout=compact&card_width=450)](https://pepo.dev)
+
