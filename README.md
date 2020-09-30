@@ -11,23 +11,7 @@
 
 ## Stats
 
-
-
-
-
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/pepodev)
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true)](https://pepo.dev)
-
-  </td>
-  <td width="50%">
-
-<br><p align="center">
-  [![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=8&layout=compact)](https://pepo.dev)
-</p>
-  </td>
-  </table>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pepodev&show_icons=true)](https://pepo.dev)
+[![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepodev&langs_count=8&layout=compact)](https://pepo.dev)
