@@ -54,6 +54,7 @@
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=DD6387)
 ![](https://img.shields.io/badge/Tools-Jenkins_x-informational?style=flat&logo=jenkins-x&logoColor=white&color=DD6387)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=DD6387)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=DD6387)
 
 ## &#x1f4c8; Statistics
 
