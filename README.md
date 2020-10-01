@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=DD6387)
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=DD6387)
+![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=DD6387)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=DD6387)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=DD6387)
@@ -50,6 +51,8 @@
 ## 📚 Learning
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=DD6387)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=DD6387)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=DD6387)
+![](https://img.shields.io/badge/Tools-Jenkins_x-informational?style=flat&logo=jenkins-x&logoColor=white&color=DD6387)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=DD6387)
 
 ## &#x1f4c8; Statistics
