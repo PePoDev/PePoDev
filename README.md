@@ -127,9 +127,8 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pepodev&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=pepodev&theme=dracula&no-frame=true&no-bg=true&margin-w=4) -->
+<img src="https://github-profile-trophy.vercel.app/?username=pepodev&theme=dracula&no-frame=true&no-bg=true&margin-w=4"/>
 
 ## 📽️ My project status
 
@@ -138,3 +137,5 @@
 ## 💰 You can help me by Donating
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pepodev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pepodev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pepodev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pepodev)
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
