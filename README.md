@@ -5,7 +5,7 @@
     alt="spotify" />
 </a>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="520"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="510"/>
 
 ## 🔧 Technologies & Tools
 
