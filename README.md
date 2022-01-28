@@ -127,8 +127,7 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=pepodev&theme=dracula&no-frame=true&no-bg=true&margin-w=4) -->
-<img src="https://github-profile-trophy.vercel.app/?username=pepodev&theme=dracula&no-frame=true&no-bg=true&margin-w=4"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=pepodev&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📽️ My project status
 
