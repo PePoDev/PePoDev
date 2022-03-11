@@ -1,7 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, My name is PePo
 
-![Profile views](https://gpvc.arturio.dev/pepodev) ![Follower](https://img.shields.io/github/followers/pepodev?style=for-the-badge)
-
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=21ynxbuyhbybbr4kvufqlpxca&cover_image=true"
@@ -52,6 +50,9 @@
 ![GraphQL](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=DD6387)
 
 ## 📊 Statistics
+
+![Profile views](https://gpvc.arturio.dev/pepodev)
+![Follower](https://img.shields.io/github/followers/pepodev?style=for-the-badge)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pepodev&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=pepodev&theme=dracula&hide_border=true)
