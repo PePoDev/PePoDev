@@ -89,8 +89,8 @@
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,ansible,aws,bash,cs,cloudflare,firebase,figma,gcp,go,rust,prometheus,grafana,html,css,tailwind,instagram,stackoverflow,js,jenkins,linkedin,linux,md,mongodb,mysql,postgres,redis,nginx,openshift,unity,vscode,vue" />
-  </a>
-</p>
+// <p align="center">
+//  <a href="https://skillicons.dev">
+//    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,ansible,aws,bash,cs,cloudflare,firebase,figma,gcp,go,rust,prometheus,grafana,html,css,tailwind,instagram,stackoverflow,js,jenkins,linkedin,linux,md,mongodb,mysql,postgres,redis,nginx,openshift,unity,vscode,vue" />
+//  </a>
+//</p>
