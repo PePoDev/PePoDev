@@ -32,6 +32,16 @@
 - [AWS Local Zone Bangkok Launch](https://blog.pepo.dev/aws-local-zone-bangkok-launch)
 <!-- BLOG-POST-LIST:END -->
 
+### 📊 Coding time in the last month
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 ### ✨ My followers
 
 <!--START_SECTION:top-followers-->
@@ -119,16 +129,6 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
-### 📊 Coding time in the last month
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <!-- References -->
 <!-- https://reheader.glitch.me/home -->
