@@ -10,10 +10,12 @@
 
 [![badges](https://holopin.me/pepodev)](https://holopin.io/@pepodev)
 
-## 📽️ My projects
+## 🏷️ Recent activities
 
-<!--START_SECTION:projects-->
-<!--END_SECTION:projects-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
 
 ## 📝 Latest Blog Posts
 
@@ -40,11 +42,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 🤪 Fun
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <!-- References -->
 <!-- https://reheader.glitch.me/home -->
 <!-- https://colorhunt.co/palette/222831393e46ffd369eeeeee -->
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- https://github.com/athul/waka-readme -->
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->

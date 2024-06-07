@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "10 0 * * *"
 
 permissions:
   contents: write
@@ -18,3 +18,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: https://blog.pepo.dev/rss.xml
+          max_post_count: 5
