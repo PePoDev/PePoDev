@@ -18,6 +18,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Graviton ทักครับ 👋](https://blog.pepo.dev/aws-graviton)
+- [ผิดไหมถ้าใจอยากจะใช้ Arch Linux บน WSL](https://blog.pepo.dev/arch-linux-wsl)
+- [Obsidian  กับเรื่อง Multiple-Devices](https://blog.pepo.dev/obsidian-multiple-device)
+- [Do the Fun Chaos Engineering with Gamification!](https://blog.pepo.dev/do-the-fun-chaos-engineering-with-gamification)
+- [AWS Local Zone Bangkok Launch](https://blog.pepo.dev/aws-local-zone-bangkok-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨ My followers
