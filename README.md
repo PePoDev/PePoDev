@@ -13,11 +13,11 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#81](https://github.com/PePoDev/digital-garden/pull/81) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-2. ❌ Closed PR [#67](https://github.com/PePoDev/digital-garden/pull/67) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-3. ❌ Closed PR [#69](https://github.com/PePoDev/digital-garden/pull/69) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-4. ❌ Closed PR [#77](https://github.com/PePoDev/digital-garden/pull/77) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-5. ❌ Closed PR [#79](https://github.com/PePoDev/digital-garden/pull/79) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. ❌ Closed PR [#89](https://github.com/PePoDev/digital-garden/pull/89) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+2. ❌ Closed PR [#88](https://github.com/PePoDev/digital-garden/pull/88) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+3. ❌ Closed PR [#86](https://github.com/PePoDev/digital-garden/pull/86) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+4. ❌ Closed PR [#84](https://github.com/PePoDev/digital-garden/pull/84) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+5. ❌ Closed PR [#83](https://github.com/PePoDev/digital-garden/pull/83) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 <!--END_SECTION:activity-->
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
