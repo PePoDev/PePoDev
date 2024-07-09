@@ -87,18 +87,18 @@ Java         2 hrs 38 mins   █▒░░░░░░░░░░░░░░░
       <a href="https://github.com/gun082544">GUNFLUENZA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pwn233">
-        <img src="https://avatars2.githubusercontent.com/u/78015199" width="100px;" alt="pwn233"/>
-      </a>
-      <br />
-      <a href="https://github.com/pwn233">pwn233</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tittoh">
         <img src="https://avatars2.githubusercontent.com/u/18376530" width="100px;" alt="Tittoh"/>
       </a>
       <br />
       <a href="https://github.com/Tittoh">Titus K.</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pwn233">
+        <img src="https://avatars2.githubusercontent.com/u/78015199" width="100px;" alt="pwn233"/>
+      </a>
+      <br />
+      <a href="https://github.com/pwn233">pwn233</a>
     </td>
   </tr>
   <tr>
