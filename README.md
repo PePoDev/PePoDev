@@ -123,13 +123,6 @@ Bash        22 mins         █░░░░░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/flukedev8">Sitthisak  Plianklip</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/aomsinrock">
-        <img src="https://avatars2.githubusercontent.com/u/100474899" width="100px;" alt="aomsinrock"/>
-      </a>
-      <br />
-      <a href="https://github.com/aomsinrock">Kheerinthon Temprada</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
