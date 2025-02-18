@@ -13,8 +13,8 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3513](https://github.com/open-telemetry/opentelemetry-operator/issues/3513#issuecomment-2518049474) in [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator)
-2. ❌ Reopened PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
+1. 🎉 Merged PR [#98](https://github.com/PePoDev/digital-garden/pull/98) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+2. 💪 Opened PR [#98](https://github.com/PePoDev/digital-garden/pull/98) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 3. ❌ Closed PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
 4. 💪 Opened PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
 5. ❌ Closed PR [#84](https://github.com/PePoDev/digital-garden/pull/84) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
