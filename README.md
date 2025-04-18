@@ -59,6 +59,13 @@ Go                                 9 mins          █▒░░░░░░░�
       <a href="https://github.com/Tantatorn-dev">Tantatorn Suksangwarn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rafaelperoco">
+        <img src="https://avatars2.githubusercontent.com/u/3013085" width="100px;" alt="rafaelperoco"/>
+      </a>
+      <br />
+      <a href="https://github.com/rafaelperoco">Rafael Peroco</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sylvance">
         <img src="https://avatars2.githubusercontent.com/u/9350722" width="100px;" alt="Sylvance"/>
       </a>
@@ -66,11 +73,11 @@ Go                                 9 mins          █▒░░░░░░░�
       <a href="https://github.com/Sylvance">omusamurai</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rafaelperoco">
-        <img src="https://avatars2.githubusercontent.com/u/3013085" width="100px;" alt="rafaelperoco"/>
+      <a href="https://github.com/new4761">
+        <img src="https://avatars2.githubusercontent.com/u/30498964" width="100px;" alt="new4761"/>
       </a>
       <br />
-      <a href="https://github.com/rafaelperoco">Rafael Peroco</a>
+      <a href="https://github.com/new4761">kanisorn siripatkerdpong</a>
     </td>
     <td align="center">
       <a href="https://github.com/gun082544">
@@ -93,6 +100,8 @@ Go                                 9 mins          █▒░░░░░░░�
       <br />
       <a href="https://github.com/M1sterNT">WANDEE SREPENRAK</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/MajorTom3K1M">
         <img src="https://avatars2.githubusercontent.com/u/32536290" width="100px;" alt="MajorTom3K1M"/>
@@ -100,14 +109,19 @@ Go                                 9 mins          █▒░░░░░░░�
       <br />
       <a href="https://github.com/MajorTom3K1M">MajorTom</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/James-Riordan">
         <img src="https://avatars2.githubusercontent.com/u/52417700" width="100px;" alt="James-Riordan"/>
       </a>
       <br />
       <a href="https://github.com/James-Riordan">James</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/phanupongr">
+        <img src="https://avatars2.githubusercontent.com/u/22865189" width="100px;" alt="phanupongr"/>
+      </a>
+      <br />
+      <a href="https://github.com/phanupongr">Phanupong Rangsanseri</a>
     </td>
     <td align="center">
       <a href="https://github.com/flukedev8">
