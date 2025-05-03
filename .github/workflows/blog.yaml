@@ -19,3 +19,4 @@ jobs:
         with:
           feed_list: https://blog.pepo.dev/rss.xml
           max_post_count: 5
+          user_agent: Mozilla/5.0 (Android 4.4; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
