@@ -13,7 +13,7 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/PePoDev/digital-garden/pull/98) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. 🗣 Commented on [#3440](https://github.com/grafana/helm-charts/issues/3440#issuecomment-3354929120) in [grafana/helm-charts](https://github.com/grafana/helm-charts)
 2. 💪 Opened PR [#98](https://github.com/PePoDev/digital-garden/pull/98) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 3. ❌ Closed PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
 4. 💪 Opened PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
