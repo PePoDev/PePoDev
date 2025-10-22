@@ -13,11 +13,11 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3440](https://github.com/grafana/helm-charts/issues/3440#issuecomment-3354929120) in [grafana/helm-charts](https://github.com/grafana/helm-charts)
-2. 💪 Opened PR [#98](https://github.com/PePoDev/digital-garden/pull/98) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-3. ❌ Closed PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
-4. 💪 Opened PR [#1471](https://github.com/open-telemetry/semantic-conventions/pull/1471) in [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions)
-5. ❌ Closed PR [#84](https://github.com/PePoDev/digital-garden/pull/84) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. ❌ Closed PR [#90](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+2. ❌ Closed PR [#91](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+3. ❌ Closed PR [#93](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+4. ❌ Closed PR [#94](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+5. ❌ Closed PR [#97](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 <!--END_SECTION:activity-->
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
