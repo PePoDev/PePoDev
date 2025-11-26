@@ -59,18 +59,18 @@ Go          58 mins         █▓░░░░░░░░░░░░░░░�
       <a href="https://github.com/Tantatorn-dev">Tantatorn Suksangwarn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sylvance">
-        <img src="https://avatars2.githubusercontent.com/u/9350722" width="100px;" alt="Sylvance"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sylvance">omusamurai</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rafaelperoco">
         <img src="https://avatars2.githubusercontent.com/u/3013085" width="100px;" alt="rafaelperoco"/>
       </a>
       <br />
       <a href="https://github.com/rafaelperoco">Rafael Peroco</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sylvance">
+        <img src="https://avatars2.githubusercontent.com/u/9350722" width="100px;" alt="Sylvance"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sylvance">omusamurai</a>
     </td>
     <td align="center">
       <a href="https://github.com/new4761">
