@@ -89,7 +89,7 @@ YAML    0 secs          ▓░░░░░░░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/92865121" width="100px;" alt="miladnami97"/>
       </a>
       <br />
-      <a href="https://github.com/miladnami97">milad</a>
+      <a href="https://github.com/miladnami97">Milad Nami</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tittoh">
