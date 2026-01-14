@@ -59,18 +59,18 @@ Other       47 mins         █░░░░░░░░░░░░░░░░�
       <a href="https://github.com/Tantatorn-dev">Tantatorn Suksangwarn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sylvance">
-        <img src="https://avatars2.githubusercontent.com/u/9350722" width="100px;" alt="Sylvance"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sylvance">omusamurai</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rafaelperoco">
         <img src="https://avatars2.githubusercontent.com/u/3013085" width="100px;" alt="rafaelperoco"/>
       </a>
       <br />
       <a href="https://github.com/rafaelperoco">Rafael Peroco</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sylvance">
+        <img src="https://avatars2.githubusercontent.com/u/9350722" width="100px;" alt="Sylvance"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sylvance">omusamurai</a>
     </td>
     <td align="center">
       <a href="https://github.com/new4761">
@@ -117,13 +117,6 @@ Other       47 mins         █░░░░░░░░░░░░░░░░�
       <a href="https://github.com/phanupongr">Phanupong Rangsanseri</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MajorTom3K1M">
-        <img src="https://avatars2.githubusercontent.com/u/32536290" width="100px;" alt="MajorTom3K1M"/>
-      </a>
-      <br />
-      <a href="https://github.com/MajorTom3K1M">MajorTom</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/M1sterNT">
         <img src="https://avatars2.githubusercontent.com/u/25530772" width="100px;" alt="M1sterNT"/>
       </a>
@@ -136,6 +129,13 @@ Other       47 mins         █░░░░░░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/James-Riordan">James</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MajorTom3K1M">
+        <img src="https://avatars2.githubusercontent.com/u/32536290" width="100px;" alt="MajorTom3K1M"/>
+      </a>
+      <br />
+      <a href="https://github.com/MajorTom3K1M">MajorTom</a>
     </td>
     <td align="center">
       <a href="https://github.com/flukedev8">
