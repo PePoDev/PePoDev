@@ -13,7 +13,7 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#90](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. 🗣 Commented on [#89553](https://github.com/ClickHouse/ClickHouse/issues/89553#issuecomment-3754493988) in [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 2. ❌ Closed PR [#91](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 3. ❌ Closed PR [#93](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 4. ❌ Closed PR [#94](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
