@@ -117,13 +117,6 @@ Bash              31 mins               ▓░░░░░░░░░░░░�
       <a href="https://github.com/pwn233">pwn233</a>
     </td>
     <td align="center">
-      <a href="https://github.com/phanupongr">
-        <img src="https://avatars2.githubusercontent.com/u/22865189" width="100px;" alt="phanupongr"/>
-      </a>
-      <br />
-      <a href="https://github.com/phanupongr">Phanupong Rangsanseri</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/James-Riordan">
         <img src="https://avatars2.githubusercontent.com/u/52417700" width="100px;" alt="James-Riordan"/>
       </a>
@@ -151,8 +144,6 @@ Bash              31 mins               ▓░░░░░░░░░░░░�
       <br />
       <a href="https://github.com/M1sterNT">WANDEE SREPENRAK</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/flukedev8">
         <img src="https://avatars2.githubusercontent.com/u/25680524" width="100px;" alt="flukedev8"/>
