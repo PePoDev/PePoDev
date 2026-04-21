@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "10 0 * * *"
+  # schedule:
+  #   - cron: "10 0 * * *"
 
 permissions:
   contents: write
