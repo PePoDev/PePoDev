@@ -13,7 +13,7 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1362](https://github.com/grafana/clickhouse-datasource/issues/1362#issuecomment-3919384391) in [grafana/clickhouse-datasource](https://github.com/grafana/clickhouse-datasource)
+1. 🔒 Closed issue [#237](https://github.com/oleeskild/obsidian-digital-garden/issues/237) in [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 2. ❌ Closed PR [#91](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 3. ❌ Closed PR [#93](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 4. ❌ Closed PR [#94](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
