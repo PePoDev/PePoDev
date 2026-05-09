@@ -13,11 +13,11 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/PePoDev/digital-garden/pull/105) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-2. 💪 Opened PR [#105](https://github.com/PePoDev/digital-garden/pull/105) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-3. 🔒 Closed issue [#237](https://github.com/oleeskild/obsidian-digital-garden/issues/237) in [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
-4. ❌ Closed PR [#94](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-5. ❌ Closed PR [#97](undefined) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. ❌ Closed PR [#103](https://github.com/PePoDev/digital-garden/pull/103) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+2. ❌ Closed PR [#102](https://github.com/PePoDev/digital-garden/pull/102) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+3. ❌ Closed PR [#101](https://github.com/PePoDev/digital-garden/pull/101) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+4. ❌ Closed PR [#100](https://github.com/PePoDev/digital-garden/pull/100) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+5. 🎉 Merged PR [#105](https://github.com/PePoDev/digital-garden/pull/105) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 <!--END_SECTION:activity-->
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
