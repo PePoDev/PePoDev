@@ -13,10 +13,10 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](https://github.com/wonderfulsoftware/webring/pull/320) in [wonderfulsoftware/webring](https://github.com/wonderfulsoftware/webring)
-2. ❌ Closed PR [#104](https://github.com/PePoDev/digital-garden/pull/104) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-3. ❌ Closed PR [#103](https://github.com/PePoDev/digital-garden/pull/103) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-4. ❌ Closed PR [#102](https://github.com/PePoDev/digital-garden/pull/102) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. 🎉 Merged PR [#112](https://github.com/PePoDev/digital-garden/pull/112) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+2. 💪 Opened PR [#112](https://github.com/PePoDev/digital-garden/pull/112) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+3. 💪 Opened PR [#320](https://github.com/wonderfulsoftware/webring/pull/320) in [wonderfulsoftware/webring](https://github.com/wonderfulsoftware/webring)
+4. ❌ Closed PR [#104](https://github.com/PePoDev/digital-garden/pull/104) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 5. ❌ Closed PR [#101](https://github.com/PePoDev/digital-garden/pull/101) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 <!--END_SECTION:activity-->
 
