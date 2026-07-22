@@ -87,18 +87,18 @@ Terraform    35 mins               █▓░░░░░░░░░░░░░
       <a href="https://github.com/new4761">kanisorn siripatkerdpong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gun082544">
-        <img src="https://avatars2.githubusercontent.com/u/56395331" width="100px;" alt="gun082544"/>
-      </a>
-      <br />
-      <a href="https://github.com/gun082544">GUNFLUENZA</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/miladnami97">
         <img src="https://avatars2.githubusercontent.com/u/92865121" width="100px;" alt="miladnami97"/>
       </a>
       <br />
       <a href="https://github.com/miladnami97">Milad Nami</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gun082544">
+        <img src="https://avatars2.githubusercontent.com/u/56395331" width="100px;" alt="gun082544"/>
+      </a>
+      <br />
+      <a href="https://github.com/gun082544">GUNFLUENZA</a>
     </td>
   </tr>
   <tr>
