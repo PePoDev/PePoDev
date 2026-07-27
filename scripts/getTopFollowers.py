@@ -18,6 +18,19 @@ import requests
 import json
 import sys
 import re
+from html import escape
+
+
+def render_follower_cell(login, database_id, display_name):
+    safe_display_name = escape(display_name, quote=True)
+    return f'''    <td align="center">
+      <a href="https://github.com/{login}">
+        <img src="https://avatars2.githubusercontent.com/u/{database_id}" width="100px;" alt="{login}"/>
+      </a>
+      <br />
+      <a href="https://github.com/{login}">{safe_display_name}</a>
+    </td>
+'''
 
 if __name__ == "__main__":
     assert(len(sys.argv) == 4)
@@ -108,14 +121,7 @@ query {{
             if i != 0:
                 html += "  </tr>\n"
             html += "  <tr>\n"
-        html += f'''    <td align="center">
-      <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px;" alt="{login}"/>
-      </a>
-      <br />
-      <a href="https://github.com/{login}">{name}</a>
-    </td>
-'''
+        html += render_follower_cell(login, id, name)
 
     html += "  </tr>\n</table>"
 
@@ -126,4 +132,3 @@ query {{
 
     with open(readmePath, "w") as readme:
         readme.write(newContent)
-
