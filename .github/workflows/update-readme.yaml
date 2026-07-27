@@ -67,7 +67,7 @@ jobs:
           ref: ${{ github.event.repository.default_branch }}
 
       - name: Update blog posts
-        uses: gautamkrishnar/blog-post-workflow@3ba55287c220f65b8c0bbb86a1c34a5fff1124cd # v1
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # v1
         with:
           feed_list: https://blog.pepo.dev/rss.xml
           max_post_count: 5
