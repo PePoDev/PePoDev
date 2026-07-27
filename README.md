@@ -130,6 +130,20 @@ No activity tracked
 </table>
 <!--END_SECTION:top-followers-->
 
+## Repository Guide
+
+Static GitHub profile with generated activity, blog, WakaTime, and follower sections. Daily workflows live in `.github/workflows/` and support manual `workflow_dispatch` runs.
+
+Key files: `README.md`, `images/banner.png`, and `scripts/getTopFollowers.py` (a paginated GitHub GraphQL client requiring `requests`). Automation uses `gautamkrishar/blog-post-workflow`, `jamesgeorge007/github-activity-readme`, `athul/waka-readme`, and `ad-m/github-push-action`.
+
+## Rules
+
+- Keep repository guidance here; `AGENTS.md` and `CLAUDE.md` only point to this file.
+- Edit only static content outside generated-section markers; workflows overwrite marked content.
+- `scripts/getTopFollowers.py` accepts `(github_handle, github_token, readme_path)`.
+- WakaTime requires the `WAKATIME_API_KEY` secret.
+- This repository has no build, tests, linter, Git hooks, or CI beyond content-update workflows.
+
 <!-- References -->
 <!-- https://reheader.glitch.me/home -->
 <!-- https://colorhunt.co/palette/222831393e46ffd369eeeeee -->
