@@ -43,7 +43,7 @@ jobs:
           git add README.md
           git commit -m "Update recent activity"
           auth_header="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
-          for attempt in 1 2 3; do
+          for _ in 1 2 3; do
             git -c http.extraheader="AUTHORIZATION: basic $auth_header" fetch origin "$TARGET_BRANCH"
             git rebase "origin/$TARGET_BRANCH"
             if git -c http.extraheader="AUTHORIZATION: basic $auth_header" push origin "HEAD:$TARGET_BRANCH"; then
@@ -115,7 +115,7 @@ jobs:
           git add README.md
           git commit -m "Update top followers"
           auth_header="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
-          for attempt in 1 2 3; do
+          for _ in 1 2 3; do
             git -c http.extraheader="AUTHORIZATION: basic $auth_header" fetch origin "$TARGET_BRANCH"
             git rebase "origin/$TARGET_BRANCH"
             if git -c http.extraheader="AUTHORIZATION: basic $auth_header" push origin "HEAD:$TARGET_BRANCH"; then
