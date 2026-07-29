@@ -15,7 +15,6 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#114](https://github.com/PePoDev/digital-garden/pull/114) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 2. 💪 Opened PR [#114](https://github.com/PePoDev/digital-garden/pull/114) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-3. 🎉 Merged PR [#320](https://github.com/wonderfulsoftware/webring/pull/320) in [wonderfulsoftware/webring](https://github.com/wonderfulsoftware/webring)
 <!--END_SECTION:activity-->
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
