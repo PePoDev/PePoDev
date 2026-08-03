@@ -77,6 +77,13 @@ Other            5 hrs 40 mins         ██▒░░░░░░░░░░�
       <a href="https://github.com/Sylvance">omusamurai</a>
     </td>
     <td align="center">
+      <a href="https://github.com/new4761">
+        <img src="https://avatars2.githubusercontent.com/u/30498964" width="100px;" alt="new4761"/>
+      </a>
+      <br />
+      <a href="https://github.com/new4761">kanisorn siripatkerdpong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/miladnami97">
         <img src="https://avatars2.githubusercontent.com/u/92865121" width="100px;" alt="miladnami97"/>
       </a>
@@ -90,6 +97,8 @@ Other            5 hrs 40 mins         ██▒░░░░░░░░░░�
       <br />
       <a href="https://github.com/gun082544">GUNFLUENZA</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tittoh">
         <img src="https://avatars2.githubusercontent.com/u/18376530" width="100px;" alt="Tittoh"/>
@@ -97,8 +106,6 @@ Other            5 hrs 40 mins         ██▒░░░░░░░░░░�
       <br />
       <a href="https://github.com/Tittoh">Titus K.</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/MajorTom3K1M">
         <img src="https://avatars2.githubusercontent.com/u/32536290" width="100px;" alt="MajorTom3K1M"/>
