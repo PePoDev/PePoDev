@@ -114,6 +114,13 @@ Markdown      5 hrs 59 mins         ██▒░░░░░░░░░░░�
       <a href="https://github.com/MajorTom3K1M">MajorTom</a>
     </td>
     <td align="center">
+      <a href="https://github.com/bhegazy">
+        <img src="https://avatars2.githubusercontent.com/u/8349777" width="100px;" alt="bhegazy"/>
+      </a>
+      <br />
+      <a href="https://github.com/bhegazy">Bill Hegazy</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/M1sterNT">
         <img src="https://avatars2.githubusercontent.com/u/25530772" width="100px;" alt="M1sterNT"/>
       </a>
@@ -126,13 +133,6 @@ Markdown      5 hrs 59 mins         ██▒░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/James-Riordan">James</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bhegazy">
-        <img src="https://avatars2.githubusercontent.com/u/8349777" width="100px;" alt="bhegazy"/>
-      </a>
-      <br />
-      <a href="https://github.com/bhegazy">Bill Hegazy</a>
     </td>
     <td align="center">
       <a href="https://github.com/flukedev8">
