@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         3 hrs 7 mins          ██████████░░░░░░░░░░░░░░░   40.24 %
-JSON         2 hrs 2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-TypeScript   1 hr 11 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-MDX          51 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Other        27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
