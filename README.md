@@ -107,6 +107,13 @@ Other        27 mins               █▒░░░░░░░░░░░░░
       <a href="https://github.com/Tittoh">Titus K.</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MajorTom3K1M">
+        <img src="https://avatars2.githubusercontent.com/u/32536290" width="100px;" alt="MajorTom3K1M"/>
+      </a>
+      <br />
+      <a href="https://github.com/MajorTom3K1M">MajorTom</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/James-Riordan">
         <img src="https://avatars2.githubusercontent.com/u/52417700" width="100px;" alt="James-Riordan"/>
       </a>
@@ -119,13 +126,6 @@ Other        27 mins               █▒░░░░░░░░░░░░░
       </a>
       <br />
       <a href="https://github.com/bhegazy">Bill Hegazy</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MajorTom3K1M">
-        <img src="https://avatars2.githubusercontent.com/u/32536290" width="100px;" alt="MajorTom3K1M"/>
-      </a>
-      <br />
-      <a href="https://github.com/MajorTom3K1M">MajorTom</a>
     </td>
     <td align="center">
       <a href="https://github.com/M1sterNT">
