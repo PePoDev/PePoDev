@@ -96,18 +96,18 @@ No activity tracked
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Tittoh">
-        <img src="https://avatars2.githubusercontent.com/u/18376530" width="100px;" alt="Tittoh"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tittoh">Titus K.</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/James-Riordan">
         <img src="https://avatars2.githubusercontent.com/u/52417700" width="100px;" alt="James-Riordan"/>
       </a>
       <br />
       <a href="https://github.com/James-Riordan">James</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tittoh">
+        <img src="https://avatars2.githubusercontent.com/u/18376530" width="100px;" alt="Tittoh"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tittoh">Titus K.</a>
     </td>
     <td align="center">
       <a href="https://github.com/bhegazy">
