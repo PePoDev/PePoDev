@@ -130,13 +130,6 @@ No activity tracked
       <br />
       <a href="https://github.com/M1sterNT">WANDEE SREPENRAK</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/flukedev8">
-        <img src="https://avatars2.githubusercontent.com/u/25680524" width="100px;" alt="flukedev8"/>
-      </a>
-      <br />
-      <a href="https://github.com/flukedev8">Sitthisak  Plianklip</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
