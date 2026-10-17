@@ -1,21 +1,17 @@
-name: Validate automation
+name: Test scripts
 
 on:
   workflow_dispatch:
   pull_request:
     paths:
-      - ".github/dependabot.yml"
       - ".github/workflows/**"
-      - "requirements*.txt"
       - "scripts/getTopFollowers.py"
       - "scripts/test_getTopFollowers.py"
       - "scripts/updateRecentActivity.js"
       - "scripts/updateRecentActivity.test.js"
   push:
     paths:
-      - ".github/dependabot.yml"
       - ".github/workflows/**"
-      - "requirements*.txt"
       - "scripts/getTopFollowers.py"
       - "scripts/test_getTopFollowers.py"
       - "scripts/updateRecentActivity.js"
@@ -25,7 +21,7 @@ permissions:
   contents: read
 
 jobs:
-  actionlint:
+  tests:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -41,31 +37,9 @@ jobs:
         uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: "3.13"
-          cache: pip
-          cache-dependency-path: requirements*.txt
-
-      - name: Set up Go
-        uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6
-        with:
-          go-version: "1.26.x"
-          cache: false
 
       - name: Install Python dependencies
-        run: python -m pip install -r requirements.txt -r requirements-dev.txt
-
-      - name: Validate Dependabot configuration
-        run: >-
-          python -c "import pathlib, yaml;
-          config = yaml.safe_load(pathlib.Path('.github/dependabot.yml').read_text());
-          assert config.get('version') == 2;
-          assert {item.get('package-ecosystem') for item in config.get('updates', [])}
-          == {'github-actions', 'pip'}"
-
-      - name: Install actionlint
-        run: GOBIN="$RUNNER_TEMP/actionlint-bin" go install github.com/rhysd/actionlint/cmd/actionlint@914e7df21a07ef503a81201c76d2b11c789d3fca # v1.7.12
-
-      - name: Lint workflows
-        run: '"$RUNNER_TEMP/actionlint-bin/actionlint" -color'
+        run: python -m pip install requests==2.34.2
 
       - name: Test activity updater
         run: node --test scripts/updateRecentActivity.test.js

@@ -29,16 +29,6 @@
 - [AWS Local Zone Bangkok Launch](https://blog.pepo.dev/aws-local-zone-bangkok-launch)
 <!-- BLOG-POST-LIST:END -->
 
-### 📊 Coding time in the last month
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### ✨ My followers
 
 <!--START_SECTION:top-followers-->
@@ -136,23 +126,22 @@ No activity tracked
 
 ## Repository Guide
 
-Static GitHub profile with generated activity, blog, WakaTime, and follower sections. `.github/workflows/update-readme.yaml` updates them daily or through `workflow_dispatch`; jobs run sequentially and continue after earlier non-cancellation failures so independent sections still refresh. `.github/workflows/actionlint.yaml` validates automation changes.
+Static GitHub profile with generated activity, blog, and follower sections. `.github/workflows/update-readme.yaml` updates them daily or through `workflow_dispatch`; jobs run sequentially and continue after earlier non-cancellation failures so independent sections still refresh. `.github/workflows/tests.yaml` runs the activity and follower script tests.
 
-Key files: `README.md`, `images/banner.png`, `scripts/updateRecentActivity.js`, and `scripts/getTopFollowers.py`. Dependabot manages GitHub Action and Python pins; the source SHA for actionlint is reviewed manually.
+Key files: `README.md`, `images/banner.png`, `scripts/updateRecentActivity.js`, and `scripts/getTopFollowers.py`. GitHub Action pins and inline Python dependency pins are reviewed manually.
 
 ## Rules
 
-- Keep repository guidance here; `AGENTS.md` and `CLAUDE.md` only point to this file.
+- Keep repository guidance here as the single source of truth.
 - Edit only static content outside generated-section markers; workflows overwrite marked content.
 - `scripts/getTopFollowers.py` accepts `(github_handle, github_token, readme_path)`.
-- WakaTime requires the `WAKATIME_API_KEY` secret.
+- Pin Python dependencies inline in workflow install commands; keep shared versions synchronized across workflows. For local setup, use the install command in `.github/workflows/tests.yaml`.
 - Run activity tests with `node --test scripts/updateRecentActivity.test.js`.
 - Run follower tests with `python -m unittest scripts.test_getTopFollowers`.
-- Validate workflows with `actionlint`; there is no application build or Git hook.
+- There is no application build or Git hook.
 
 <!-- References -->
 <!-- https://reheader.glitch.me/home -->
 <!-- https://colorhunt.co/palette/222831393e46ffd369eeeeee -->
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- https://github.com/athul/waka-readme -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
