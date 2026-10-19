@@ -13,8 +13,8 @@
 ## 🏷️ Recent activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/PePoDev/digital-garden/pull/114) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-2. 💪 Opened PR [#114](https://github.com/PePoDev/digital-garden/pull/114) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+1. 🎉 Merged PR [#115](https://github.com/PePoDev/digital-garden/pull/115) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
+2. 💪 Opened PR [#115](https://github.com/PePoDev/digital-garden/pull/115) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 <!--END_SECTION:activity-->
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
