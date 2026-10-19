@@ -22,11 +22,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Graviton ทักครับ 👋](https://blog.pepo.dev/aws-graviton)
-- [ผิดไหมถ้าใจอยากจะใช้ Arch Linux บน WSL](https://blog.pepo.dev/arch-linux-wsl)
-- [Obsidian  กับเรื่อง Multiple-Devices](https://blog.pepo.dev/obsidian-multiple-device)
-- [Do the Fun Chaos Engineering with Gamification!](https://blog.pepo.dev/do-the-fun-chaos-engineering-with-gamification)
-- [AWS Local Zone Bangkok Launch](https://blog.pepo.dev/aws-local-zone-bangkok-launch)
+- [AWS Graviton ทักครับ 👋](https://pepo.dev/?blog=aws-graviton-%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A)
+- [ผิดไหมถ้าใจอยากจะใช้ Arch Linux บน WSL](https://pepo.dev/?blog=%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%96%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B9%83%E0%B8%8A%E0%B9%89-arch-linux-%E0%B8%9A%E0%B8%99-wsl)
+- [Obsidian กับเรื่อง Multiple-Devices](https://pepo.dev/?blog=obsidian-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-multiple-devices)
+- [Do the Fun Chaos Engineering with Gamification!](https://pepo.dev/?blog=do-the-fun-chaos-engineering-with-gamification)
+- [AWS Local Zone Bangkok Launch](https://pepo.dev/?blog=aws-local-zone-bangkok-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨ My followers
