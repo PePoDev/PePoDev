@@ -16,7 +16,6 @@
 1. 💪 Opened PR [#11](https://github.com/PePoDev/corqty/pull/11) in [PePoDev/corqty](https://github.com/PePoDev/corqty)
 2. 💪 Opened PR [#10](https://github.com/PePoDev/corqty/pull/10) in [PePoDev/corqty](https://github.com/PePoDev/corqty)
 3. 🎉 Merged PR [#115](https://github.com/PePoDev/digital-garden/pull/115) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
-4. 💪 Opened PR [#115](https://github.com/PePoDev/digital-garden/pull/115) in [PePoDev/digital-garden](https://github.com/PePoDev/digital-garden)
 <!--END_SECTION:activity-->
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepodev&theme=github-compact&hide_border=true&area=true)](https://github.com/pepodev)
